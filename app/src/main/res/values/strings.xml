@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News_Application</string>
+    <string name="headline">Long Headline coming Up.</string>
+    <string name="max">Max Mustermann</string>
+    <string name="date">Sep 07, 2018</string>
+    <string name="dev">Development</string>
+    <string name="no_internet_text">No Internet Connection</string>
+</resources>
