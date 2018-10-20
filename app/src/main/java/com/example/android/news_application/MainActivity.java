@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity implements android.app.Loade
 
     public static final int NEWS_LOADER_ID = 1;
     public static final String GUARDIAN_REQUEST_URL =
-            "https://content.guardianapis.com/search?show-tags=contributor&api-key=6e58c37c-cce6-4623-8ed9-1e53a23af9c1";
+            "https://content.guardianapis.com/search?show-tags=contributor&api-key=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
     ListView mListView;
     TextView mTextView;
